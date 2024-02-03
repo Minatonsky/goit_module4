@@ -1,7 +1,6 @@
 import json
 import mimetypes
 import pathlib
-import socket
 from http.server import HTTPServer, BaseHTTPRequestHandler
 import urllib.parse
 from datetime import datetime
